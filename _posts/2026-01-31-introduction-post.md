@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Clodagh
+author: Clodagh Nangle
 ---
 
 This is an introduction post for my blog. 
