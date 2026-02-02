@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+My name is Clodagh and I am currently an exchange student at Hendrix College in Arkansas.
+
+The below text is information about Jekyll:
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
