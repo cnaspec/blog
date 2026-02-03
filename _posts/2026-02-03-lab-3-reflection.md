@@ -24,7 +24,7 @@ I was unable to change the colours of the text inside the header as I could not 
 
 I am still looking forward to getting better at this as I don't think I have improved much.
 
-In reference to the [new page](/dogs/), here is an image of my dog.
+In reference to the [new page]({{ '/dogs/' | relative_url }}), here is an image of my dog.
 
 ![My Dog]({{ '/assets/images/trippthedog.jpg' | relative_url }})
 
