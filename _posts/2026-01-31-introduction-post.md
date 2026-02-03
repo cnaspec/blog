@@ -1,13 +1,13 @@
 ---
 layout: post
-author: Clodagh Nangle
+author: Clodagh
 ---
 
-This is an introduction post for my blog. 
+##### This is an introduction post for my blog. 
 
 ### What parts were new to me?
 
-Using GitHub in general is still pretty new to me, and so I had never made a fork of a repository before. Here is a list of other things which where new to me:
+Using GitHub in general is still pretty new to me, and so I had never made a fork of a repository before. Here is a list of other things which were new to me:
 
 1. Using Jekyll
 2. Using Ruby

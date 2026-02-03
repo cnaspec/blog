@@ -5,3 +5,56 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+h1{
+  color: rgb(59, 162, 162);
+}
+
+h3{
+  color: rgb(157, 179, 57);
+}
+
+h2{
+  color: rgb(191, 58, 120);
+}
+
+h4{
+  color: rgb(191, 58, 120);
+}
+
+h5{
+  color: rgb(191, 58, 120);
+}
+
+.post-meta{
+  color: rgb(157, 179, 57);
+}
+
+.site-header{
+  border-color: rgb(191, 58, 120);
+}
+
+.site-footer{
+  border-color:rgb(191, 58, 120); 
+}
+
+.post-header{
+  border-color: rgb(157, 179, 57);
+}
+
+a{
+  color:rgb(59, 162, 162);
+}
+
+a:hover{
+  color: rgb(191, 58, 120);
+}
+
+.footer-col{
+  color: rgb(191, 58, 120);
+}
+
+li::marker{
+   color: rgb(191, 58, 120);
+}
+
