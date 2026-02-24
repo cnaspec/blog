@@ -7,7 +7,7 @@ In this task, we were expected to think about the requirements to create an onli
 
 ## Assumptions Made
 
-To convert this scenario into this data modeling framework, I had to made several assumptions.
+To convert this scenario into this data modeling framework, I had to make several assumptions.
 
 First, I assumed there was no constraints on the fulfilment times or the number of workers required to fulfil an order (i.e. that there were always enough delivery drivers and vans to fulfil an order, and the distances between the deliveries did not need to be accounted for in the logistics, that the store is not closed on certain days or has blackout dates for delivery, no pickup orders will need to be rescheduled due to staff shortages, etc) in order to minimise the considerations. I further assumed that all customers who have an account have a phone number.
 
@@ -15,10 +15,10 @@ I also assumed that the choice of the subsitute items has been left to the discr
 
 ## User Stories
 
-To quantify the importance of the stories, I use a 1 to 5 scale with 1 being the highest priority level and 5 being the lowest. All these user stories (with the exclusion of 5 due to the additional complexity) are small, as they are closely related to the initial requirements of the task.
+To quantify the importance of the stories, I used a 1 to 5 scale with 1 being the highest priority level and 5 being the lowest. All these user stories (with the exclusion of 5 due to the additional complexity) are small, as they are closely related to the initial requirements of the task.
 
 1. Owner can add new items for sale
-    -  Priority: 1
+    - Priority: 1
     - This is a necessary requirement that must be fulfilled.
 2. Owner can specify the name, price, quantity available and the manufactuer and the manufacturer of the items for sale.
     - Priority: 2
@@ -49,6 +49,6 @@ To quantify the importance of the stories, I use a 1 to 5 scale with 1 being the
 
 ![Schema]({{ '/assets/images/Lab_6_Schema.png' | relative_url }})
 
-With regards to the above diagrams, I am not particularly satisfied with the representations above because I feel that I don't understand the concepts well enough to execute them competently. For example, when I was working on the Entity Relationship diagram (prior to working on the Schema) I kept thinking of validation and entities which would improve the systems function but was unclear on how these would actually be implemented in a database which prevented me from using them and this was frustrating.
+With regards to the above diagrams, I am not particularly satisfied with the representations because I feel that I don't understand the concepts well enough to execute them competently. For example, when I was working on the Entity Relationship diagram (prior to working on the Schema) I kept thinking of validation and entities which would improve the system's function but was unclear on how these would actually be implemented in a database, which prevented me from using them and this was frustrating.
 
 I think the Entity Relationship diagram is an adequate representation of a very basic system that would satisfy the requirements. The issue is with the RedGate Schema, as the system would require a great deal of validation (such as ensuring customers don't select more quantity of a product than exists in inventory, or ensuring order fulfilment doesn't exceed the stores capacity to fill in terms of method, dates and times), and it is unclear to me how this might be implemented. To correct this, I need to do some further independent study on the topics to ensure I understand the fundementals properly.
