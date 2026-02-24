@@ -43,7 +43,7 @@ To quantify the importance of the stories, I use a 1 to 5 scale with 1 being the
 
 ### LucidChart Entity Relationship Diagram
 
-![DEModel]({{ '/assets/images/\Lab 6_DE_Model.png' | relative_url }})
+![DEModel]({{ '/assets/images/Lab 6_DE_Model.png' | relative_url }})
 
 ### RedGate Schema
 
