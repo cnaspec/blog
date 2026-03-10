@@ -5,7 +5,7 @@ author: Clodagh
 
 In this task, we were expected follow the [tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-10.0&tabs=visual-studio-code) for RazorPagesMovies and use this to create a RazorPages website for a different data model.
 
-## Links to Assigment
+## Links to Assignment
 
 I decided to produce a model for books (each of which has a Title, Author, Genre, Publishing Date and IBSN number) and the code for my project can be viewed on my Github repository page [here](https://github.com/cnaspec/csci340lab8/tree/main/RazorPagesBooks).
 
