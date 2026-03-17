@@ -7,7 +7,7 @@ In this task, we were expected follow the [tutorial](https://learn.microsoft.com
 
 ## Links to Assignment
 
-I decided to produce a model for books (each of which has a Title, Author, Genre, Publishing Date and IBSN number) and the code for my project can be viewed on my Github repository page [here](https://github.com/cnaspec/csci340lab9/tree/main/WhateverUniversity).
+View my work for this assignment [here](https://github.com/cnaspec/csci340lab9/tree/main/WhateverUniversity).
 
 ## Reflections
 
